@@ -7,18 +7,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CB00D4&center=true&width=500&lines=Data+Scientist+;Making+invisible+patterns+visible;Always+experimenting;In+a+world+full+of+noise%2C+;data+reveals+the+truth;Turning+data+into+decisions;Always+learning;Data+is+power;Insight+beats+intuition" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CB00D4&center=true&width=500&lines=Backend+Engineer+;Scalable+backend+systems;Build+fast,+run+faster;Data+first,+always+correct%2C+;Engineering+over+hacks;Performance+is+a+feature;Always+learning;Reliable+>+clever;Clean+architecture,+real+results" alt="Typing SVG" /></a>
 </p>
 
 ## About myself
 
-- 🧪 Data Scientist & Machine Learning Engineer
-- 📚 Passionate and Self-taught developer
-- ☁ Azure Data Scientist Associate
-- 🤖 I'm currently lerning MLOps to built automated pipelines for model training & deployment
-- 📐 Delving deeper into linear algebra, calculus and deep learning
-- 💬 Ask me about Machine Learning, Python and Azure
-- 📬 Feel free to reach me out danielmendez1708@hotmail.com
+* 🧠 Backend Engineer focused on building scalable APIs and systems
+* 📚 Self-taught developer with strong problem-solving mindset
+* 🐍 Python & Django specialist
+* ⚙️ Experience with PostgreSQL, Redis, Celery and asynchronous tasks
+* 🔐 Familiar with authentication systems (JWT), caching strategies and performance optimization
+* ☁ Experience deploying applications with Gunicorn and cloud services
+* 📐 Strong foundations in software architecture, clean code and system design
+* 💬 Ask me about Backend Development, APIs, Databases and System Design
+* 📬 Feel free to reach me out: [danielmendez1708@hotmail.com](mailto:danielmendez1708@hotmail.com)
 
 <br>
 
