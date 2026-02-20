@@ -34,40 +34,35 @@
 #### 🔧 Languages
     
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql%20-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql%20-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
     
-#### 📚 Libraries
-
-  ![Scikit Learn](https://img.shields.io/badge/Scikit--learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&logoSize=auto)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%237D8BE3?style=for-the-badge&logoColor=white&logoSize=auto)
-  ![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=%23150458&logoSize=auto)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoSize=auto)
-  ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+#### 📚 Libraries & Frameworks
+  ![DJango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoSize=auto)
+  ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white&logoSize=auto)
+  ![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&logoSize=auto)
+  ![Redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&logoSize=auto)
+  ![Gunicorn](https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white&logoSize=auto)
   
-
 
 #### ☁ Cloud Hosting
   
    ![Azure](https://img.shields.io/badge/AZURE-%23001585?style=for-the-badge&logo=airbrake&logoColor=white)
    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-
-
+   
 #### 🛠️ Softwares and Tools
 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23464652?style=for-the-badge&logo=huggingface&logoColor=%23FFD21E&logoSize=auto)
  ![Docker](https://img.shields.io/badge/Docker-0078d7.svg?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+ ![Celery](https://img.shields.io/badge/celery-499848?style=for-the-badge&logo=celery&logoColor=white&logoSize=auto)
 
 #### 📊Extras
   
-  ![Excel](https://img.shields.io/badge/Excel-%2308A300?style=for-the-badge&logoColor=%23150458&logoSize=auto)
-  ![PowerBI](https://img.shields.io/badge/PowerBi-%23FFEA00?style=for-the-badge&logoColor=%23150458&logoSize=auto)
+  ![MachineLearning](https://img.shields.io/badge/Machine%20Learning-50162D?style=for-the-badge&logoColor=white&logoSize=auto&logo=robotframework)
 
 </p>
 
